@@ -1,1 +1,1 @@
-# QRCodeReader
+# QRCodeReader Application
